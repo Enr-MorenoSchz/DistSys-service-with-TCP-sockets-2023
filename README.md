@@ -3,6 +3,6 @@
 
 Co-author: @molinal02
 
-Project Goal: Design and implement a distributed service (using TCP sockets).
+Project Goal: Design and implement a distributed service using mainly TCP sockets. UDP sockets can also be used.
 
-[Note: The content from this repository can also be found in my alt. university account ( @EnriqueMorenoG88 ) where the original repository is public ]
+[Note: The content from this repository can also be found in my alt. university account ( @EnriqueMorenoG88 ) where the original repository is public]
