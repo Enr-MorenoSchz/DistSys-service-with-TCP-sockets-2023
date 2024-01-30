@@ -1,4 +1,4 @@
-# SSDD_ejev2
+# SSDD_Distributed_system_TCP_sockets 
 [3rd University Course] 2nd Practice from the Distributed Systems subject re-uploaded.
 
 Co-author: @molinal02
